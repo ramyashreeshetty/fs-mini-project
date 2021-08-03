@@ -1,5 +1,7 @@
 # fs-mini-project
 
-Hey this is my File structure project on " BUCKET LIST "! :eyes:
+:gear: Hey this is my File structure project on " BUCKET LIST "! :gear:
 </br>
-If you wanna use it go ahead and download the zip file. Run on VScode. 
+If you wanna use it go ahead and download the zip file. 
+</br>
+Run on VScode. :boom:
