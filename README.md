@@ -4,4 +4,4 @@
 </br>
 If you wanna use it go ahead and download the zip file. 
 </br>
-Run on VScode. :boom:
+Then Run it on <i>VScode</i>. :boom:
