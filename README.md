@@ -6,6 +6,6 @@ If you wanna use it go ahead and download the zip file.
 </br>
 Then Run it on <i>VScode</i>. :boom:
 
-[![EARTH](coverimgfs.png)
+![CoverImage](coverimgfs.png)
 
 
